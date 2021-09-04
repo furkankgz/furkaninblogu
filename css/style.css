@@ -1,0 +1,40 @@
+html, body
+{
+	height: 100%;
+	width: 100%;
+}
+.padding
+{
+	padding: 80px 0;
+}
+.padding img
+{
+	width: 100%;
+}
+#kod
+{
+	background:url(../img/kod1.jpg) no-repeat center center fixed;
+	display: table;
+	height: 60%;
+	position: relative;
+	width: 100%;
+	background-size: cover;
+}
+#kamera
+{
+	background:url(../img/ani-yakala.jpg) no-repeat center center fixed;
+	display: table;
+	height: 60%;
+	position: relative;
+	width: 100%;
+	background-size: cover;
+}
+#study
+{
+	background:url(../img/kitap.jpg) no-repeat center center fixed;
+	display: table;
+	height: 60%;
+	position: relative;
+	width: 100%;
+	background-size: cover;
+}
